@@ -6,7 +6,7 @@
 
 - 🛠**Tech Stack**
 
-  [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,redux,nodejs,html,css,styledcomponents,git,mysql,mongodb,firebase,webpack&theme=dark&perline=5)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,redux,nodejs,html,css,styledcomponents,graphql,heroku,mysql,mongodb,supabase,firebase,vscode,webpack&theme=dark&perline=8)](https://skillicons.dev)
  
 - 📫 How to reach me : 
 
